@@ -1,2 +1,2 @@
 # TEST_REPO
-For Education
+For Educational purposes
